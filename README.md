@@ -13,7 +13,7 @@ A demo project to elaborate the deployment of Machine Learning models on product
 ├── static  
 │   ├── css  
 │   ├── js  
-│   └── img  
+│   └── images    
 │  
 ├── templates  
 │   └── index.html  

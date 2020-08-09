@@ -11,12 +11,19 @@ A demo project to elaborate the deployment of Machine Learning models on product
 # Deployment Structure
 
 ├── static
+
 │   ├── css
+
 │   ├── js
+
 │   └── img
+
 │       
+
 ├── templates
+
 │   └── index.html
+
 └── app.py
 
 # Project Components
